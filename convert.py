@@ -3,7 +3,7 @@ import webbrowser
 import pyautogui
 
 lista = []
-contador=2483
+contador=1
 f = open('mdfes.txt', 'r')
 for c in f:
     lista.append(c)
